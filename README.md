@@ -1,5 +1,3 @@
-# leave-tracker
-Lets see who’s away, when they vanish, and whether the boss has blessed the escape 😄 and decide my turn 
 # Leave Tracker App
 
 ## Overview
@@ -17,11 +15,10 @@ A simple leave tracking system for teams to manage leave requests, approvals, an
 ---
 
 ## UI Expectations
-- The primary interface should be a **calendar-based UI**
 - Users should be able to:
   - Select dates directly from calendar
   - View team availability visually
-- Avoid form-only UI; calendar is mandatory
+- Avoid form-only UI;
 
 ---
 
@@ -35,7 +32,7 @@ Since authentication is not implemented:
 Example:
 - User1, User2, User3, User4, User5 → Employees
 - Manager1 → Manager
-
+- i can edit thise names 
 ---
 
 ## Constraints
